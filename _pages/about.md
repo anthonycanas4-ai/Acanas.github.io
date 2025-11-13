@@ -10,14 +10,15 @@ redirect_from:
 About Me
 ======
 
-Graduating with a BS in Information Technology (4.0 GPA), I recently led
-the AmeriCorps AI Chatbot project, managing timelines and improving HR
-eﬃciency. Furthermore, I also designed and deployed a centralized
-PostgreSQL database for a multi-location bookstore franchise, integrating
-vendor, inventory, sales, and employee systems to optimize operational
-eﬃciency. I also contributed to a 10% increase in weekly upsells at Kohls
-utilizing my customer service expertise. These experiences have collectively
-enhanced my problem-solving, organizational, and technical skills.
+Hi, I'm Anthony Canas, an Information Technology student graduating with a 4.0 GPA with hands-on experience building practical, real-world solutions. I focus on creating systems that improve efficiency, streamline workflows, and make technology easier for people to use.
+
+I recently led the AmeriCorps AI Chatbot project, where I managed timelines, designed system workflows, and helped improve HR efficiency through automation. I also built and deployed a centralized PostgreSQL database for a multi-location bookstore franchise, integrating vendor, inventory, sales, and employee systems to improve operations and data accuracy.
+
+Alongside technical work, I bring strong customer experience skills, including contributing to a 10 percent increase in weekly upsells at Kohl's by understanding user needs and communication patterns.
+
+I enjoy solving problems, breaking down complex technical tasks into clear solutions, and learning new tools that help me build smarter systems. I am currently expanding my skills in cloud technologies, automation, and advanced data workflows.
+
+If you are looking for someone who can combine technical ability, organization, and real-world impact, I would be excited to connect.
 
 My Work
 ======
