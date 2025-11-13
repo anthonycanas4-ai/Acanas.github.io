@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Anthony Canas"
+title: "Anthony Canas's Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my portfolio! 
+About Me
 ======
 
 Graduating with a BS in Information Technology (4.0 GPA), I recently led
