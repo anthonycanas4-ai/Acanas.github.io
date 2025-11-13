@@ -22,6 +22,14 @@ I enjoy designing efficient systems, breaking down complex technical challenges,
 
 If you are looking for someone who combines technical ability, organization, and real-world impact, I would be excited to connect.
 
+Skills
+======
+
+- **Technical:** Google Colab, SQL, Python
+- **Soft skills:** Adaptability; Time Management; Critical Thinking; Collaboration
+- **Microsoft Office Suite:** Project Professional, Word, Outlook, PowerPoint, Excel, Teams
+- **Bilingual:** Spanish
+
 My Work
 ======
 
