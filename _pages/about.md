@@ -10,7 +10,15 @@ redirect_from:
 Welcome to my portfolio! 
 ======
 
-I'm Anthony Canas, and this is where I showcase my work and projects. Feel free to explore my [portfolio](portfolio), [publications](publications), and other sections to learn more about what I do.
+Graduating with a BS in Information Technology (4.0 GPA), I recently led
+the AmeriCorps AI Chatbot project, managing timelines and improving HR
+eﬃciency. Furthermore, I also designed and deployed a centralized
+PostgreSQL database for a multi-location bookstore franchise, integrating
+vendor, inventory, sales, and employee systems to optimize operational
+eﬃciency. I also contributed to a 10% increase in weekly upsells at Kohls
+utilizing my customer service expertise. These experiences have collectively
+enhanced my problem-solving, organizational, and technical skills.
+(See <attachments> above for file contents. You may not need to search or read the file again.)
 
 My Work
 ======
