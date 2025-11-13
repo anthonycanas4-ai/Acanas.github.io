@@ -30,7 +30,7 @@ author:
   location         : # Your location
   employer         : # Your employer
   uri              : # URL
-  email            : # your email 
+  email            : "anthonycanas33@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/anthony-canas-74a949360/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
