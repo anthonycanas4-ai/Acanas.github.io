@@ -10,15 +10,17 @@ redirect_from:
 About Me
 ======
 
-Hi, I'm Anthony Canas, an Information Technology student graduating with a 4.0 GPA with hands-on experience building practical, real-world solutions. I focus on creating systems that improve efficiency, streamline workflows, and make technology easier for people to use.
+Hi, I'm Anthony Canas, a recent graduate with a Bachelor of Science in Information Technology from the University of North Carolina at Greensboro, where I completed my degree with a 4.0 GPA. I focus on building practical, real-world solutions that improve efficiency, streamline workflows, and make technology easier for people to use.
 
-I recently led the AmeriCorps AI Chatbot project, where I managed timelines, designed system workflows, and helped improve HR efficiency through automation. I also built and deployed a centralized PostgreSQL database for a multi-location bookstore franchise, integrating vendor, inventory, sales, and employee systems to improve operations and data accuracy.
+I have experience supporting HR operations by helping automate SOP workflows, including organizing, updating, and creating new standard operating procedures. I improved the process of retrieving existing SOPs, restructuring them, and developing new versions that reduced manual work and helped HR teams maintain consistency and accuracy.
 
-Alongside technical work, I bring strong customer experience skills, including contributing to a 10 percent increase in weekly upsells at Kohl's by understanding user needs and communication patterns.
+I also built a centralized PostgreSQL database for a multi-location bookstore franchise, integrating vendor, inventory, sales, and employee data into one unified system to improve operational accuracy and reporting.
 
-I enjoy solving problems, breaking down complex technical tasks into clear solutions, and learning new tools that help me build smarter systems. I am currently expanding my skills in cloud technologies, automation, and advanced data workflows.
+Alongside my technical work, I apply strong communication and user-focused problem-solving skills that help me translate organizational needs into clear technical solutions.
 
-If you are looking for someone who can combine technical ability, organization, and real-world impact, I would be excited to connect.
+I enjoy designing efficient systems, breaking down complex technical challenges, and learning new tools that make technology smarter and more accessible. I am currently expanding my skills in cloud technologies, automation, and advanced data workflows.
+
+If you are looking for someone who combines technical ability, organization, and real-world impact, I would be excited to connect.
 
 My Work
 ======
