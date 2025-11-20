@@ -14,15 +14,6 @@ This project explores whether higher levels of education are associated with low
 
 ![Project Results](https://anthonycanas4-ai.github.io/Acanas.github.io/_portfolio/datavis.png)
 ---
-title: "Education & Unemployment Data Analysis"
-excerpt: "Data analysis project exploring the relationship between education levels and unemployment rates using Python, Pandas, and Google Colab. Strong negative correlation (–0.936) found with statistical significance."
-collection: portfolio
-header:
-  teaser: "https://anthonycanas4-ai.github.io/Acanas.github.io/_portfolio/datavis.png"
----
 
-### Beyond Borders Books – PostgreSQL Relational Database System
-
-[Full project details and schema]({{ "/_portfolio/beyond-borders-books.html" | prepend: site.baseurl }})
 
 
