@@ -21,6 +21,9 @@
   #main {
     padding-left: 2.5em;
     padding-right: 2.5em;
+    margin-left: auto;
+    margin-right: auto;
+    /* center the main column horizontally */
 
     @include breakpoint($x-large) {
       max-width: 900px;
