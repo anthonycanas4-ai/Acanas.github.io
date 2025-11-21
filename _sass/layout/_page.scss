@@ -16,63 +16,6 @@
   }
 }
 
-/* Post-specific wider margins for improved readability */
-.post-main {
-  #main {
-    padding-left: 2.5em;
-    padding-right: 2.5em;
-    margin-left: auto;
-    margin-right: auto;
-    /* center the main column horizontally */
-    /* center paragraph and heading text for posts */
-    text-align: center;
-
-    /* keep pre/code, tables and lists left-aligned for readability */
-    pre,
-    code,
-    table,
-    thead,
-    tbody,
-    tfoot,
-    ul,
-    ol,
-    li,
-    blockquote {
-      text-align: left;
-    }
-
-    @include breakpoint($x-large) {
-      max-width: 900px;
-    }
-  }
-}
-
-/* Also apply same rules when the page URL indicates a blog post */
-.is-blog #main {
-  padding-left: 2.5em;
-  padding-right: 2.5em;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-
-  pre,
-  code,
-  table,
-  thead,
-  tbody,
-  tfoot,
-  ul,
-  ol,
-  li,
-  blockquote {
-    text-align: left;
-  }
-
-  @include breakpoint($x-large) {
-    max-width: 900px;
-  }
-}
-
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
